@@ -79,7 +79,7 @@ namespace IndexerExample
     }
     public class Tester
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             University univ = new University("Universitat of Saarland");
 
@@ -106,7 +106,7 @@ namespace IndexerExample
             Console.WriteLine(d.deptID);
             Console.WriteLine(d.address);
 
-        }
+        }*/
 
     }
 }
